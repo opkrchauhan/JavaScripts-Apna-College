@@ -1,0 +1,28 @@
+h1{
+    background-color: aqua;
+    color: burlywood;
+}
+
+h2{
+    background-color:chartreuse;
+    color: crimson;
+}
+h4{
+    background-color:darkviolet;
+    color: hotpink;
+}
+
+p{
+    font-size: 20px;
+    background-color: yellow;
+    color: steelblue;
+}
+
+button{
+    color: blue;
+}
+
+.heading-class{
+    color:pink;
+    background-color: green;
+}

@@ -1,0 +1,11 @@
+.para{
+    border-top: 1px solid black;
+    height: 50px;
+    width: 200px;
+    background-color:aqua;
+    color:red;
+}
+
+.new{
+    background-color: yellow;
+}
